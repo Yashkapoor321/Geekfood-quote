@@ -1,0 +1,19 @@
+.data{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 15px 25px;
+    /* border: 2px solid red; */
+    padding: 0 25px;
+}
+.content{
+  border: 2px solid grey;
+  width: 80vw;
+  border-radius: 10px;
+  margin: 25px 25px;
+  padding: 5px  25px;
+  align-self: center;
+  font-weight: 600;
+  font-size: larger;
+}
